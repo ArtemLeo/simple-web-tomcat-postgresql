@@ -5,4 +5,3 @@
 <img src="README images/0.png" alt="Logo">
 <img src="README images/1.png" alt="Logo">
 <img src="README images/2.png" alt="Logo">
-
